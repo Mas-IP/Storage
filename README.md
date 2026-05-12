@@ -1,2 +1,2 @@
-# WA-Storage
-Khusus untuk menyimpan file dari tourl
+# Storage
+Khusus untuk menyimpan file
